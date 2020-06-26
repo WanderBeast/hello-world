@@ -1,1 +1,1 @@
-# Getting down with some gitstank
+# Getting down with some hello-world
